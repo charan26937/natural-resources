@@ -1,0 +1,6 @@
+{
+  "name": "Global Natural Resources Explorer",
+  "description": "Explore, identify, map, and analyze global natural resources across geology, minerals, metals, gemstones, elements, soils, water, energy, and forests with online scientific APIs and AI specimen recognition.",
+  "requestFramePermissions": ["microphone", "camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
